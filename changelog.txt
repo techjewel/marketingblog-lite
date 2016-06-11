@@ -1,0 +1,23 @@
+Version 1.5.4 ( 24 February 2016 )
+--------------
+- Added esc_html() filter to popular and social widget title
+
+Version 1.5.3 ( 24 February 2016 )
+--------------
+- Added esc_html() filter to widget title
+
+Version 1.5.2 ( 24 February 2016 )
+--------------
+- Fix the missing folder
+
+Version 1.5.1 ( 24 February 2016 )
+--------------
+- Support Multiple level Menu
+- Child theme Ready
+- Fixed Translation strings
+- Added changelog.txt
+- Fix some other small issues
+
+Version 1.5.0 ( 25 February 2016 )
+--------------
+- Added Non-Minified js files
